@@ -1,6 +1,7 @@
 # ESE519_Lab2B
 
 1. The GIF is shown here:
+2. 
 ![a](https://github.com/ZhijingY/ESE519_Lab2B/blob/main/Zhijing_LabB.gif)
 
     The Code of modified blink.c is shown below:
