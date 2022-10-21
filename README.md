@@ -5,6 +5,7 @@
     ![a](https://github.com/ZhijingY/ESE519_Lab2B/blob/main/Zhijing_LabB.gif)
 
     The Code of modified blink.c is shown below:
+    
         #include "pico/stdlib.h"
 
         int main() {
