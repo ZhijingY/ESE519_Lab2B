@@ -1,6 +1,6 @@
 # ESE519_Lab2B
 
-1. 
+1. The GIF is shown here:
 
 The Code of modified blink.c is shown below:
     #include "pico/stdlib.h"
