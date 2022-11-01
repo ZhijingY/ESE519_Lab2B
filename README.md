@@ -31,9 +31,22 @@
 
 ## Components used for protoboard work
 
-- RP2040, 
-- APDS9960, 
-- 510 Ohm resistor, 
-- red LED
+- RP2040
+- APDS9960
+- 510 Ohm resistor
+- Red LED
+- Protoboard
+- Wires
 
+## Peripheral used
 
+- GPIO
+- I2C1
+
+## How the prototype works
+
+This prototype is a simple security system. The proximity sensor on APDS9960 will be enabled upon starting, and it will sense the proximity of objects and send the value to RP2040 via I2C. Once the detected proximity value is over 50, the red LED on board will blink. The schematic and demo GIF is shown below.
+
+## Schematic
+
+## Demo GIF
