@@ -27,6 +27,8 @@
 4. Will it be accpetable to borrow a small camera module? Are we allowed to implement other MCUs in our design?
 
 
-## Update on Oct.31st
+# Update on Oct.31st
 
-# Protoboard work
+## Protoboard work
+
+
