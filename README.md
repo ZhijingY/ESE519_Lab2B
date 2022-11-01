@@ -29,6 +29,11 @@
 
 # Update on Oct.31st
 
-## Protoboard work
+## Components used for protoboard work
+
+- RP2040, 
+- APDS9960, 
+- 510 Ohm resistor, 
+- red LED
 
 
