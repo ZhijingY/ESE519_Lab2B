@@ -20,8 +20,13 @@
             }
         }
 
-2. I am planning to build a small security system protorype with red LEDs and a speaker, along with a sensor (or a camera module probably). When an object is detected approaching, I would expect the LEDs to flash and the speaker to scream. I think it'd be cool because this will be fun to demo. Also it can work with IoT, like uploading the trespassing information onto internet.
+2. I am planning to build a small security system protorype with red LED, along with a sensor (or a camera module probably). When an object is detected approaching, I would expect the LEDs to flash. I think it'd be cool because this will be fun to demo. Also it can work with IoT, like uploading the trespassing information onto internet.
 
 3. I would request several LEDs and a (or a few) speaker. A camera also if possible.
 
 4. Will it be accpetable to borrow a small camera module? Are we allowed to implement other MCUs in our design?
+
+
+## Update on Oct.31st
+
+# Protoboard work
