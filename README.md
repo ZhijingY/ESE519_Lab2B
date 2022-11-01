@@ -57,12 +57,12 @@ This prototype is a simple security system. The proximity sensor on APDS9960 wil
 
 ## Code
 
-        #include <stdio.h>
-#include <string.h>
-#include "pico/stdlib.h"
-#include "pico/binary_info.h"
-#include "hardware/pio.h"
-#include "hardware/i2c.h"
+    #include <stdio.h>
+        #include <string.h>
+        #include "pico/stdlib.h"
+        #include "pico/binary_info.h"
+        #include "hardware/pio.h"
+        #include "hardware/i2c.h"
 
 int addr = 0x39;
 
