@@ -49,4 +49,6 @@ This prototype is a simple security system. The proximity sensor on APDS9960 wil
 
 ## Schematic
 
+![a](https://github.com/ZhijingY/ESE519_Lab2B/blob/main/lab2B_prototype_Schematic.png)
+
 ## Demo GIF
